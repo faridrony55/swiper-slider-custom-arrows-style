@@ -1,6 +1,6 @@
 # swiper-slider-custom-arrows-style
 
-<style>/
+<style><br>
   .swiper-button-prev.swiper-button-prev_mySwiper3:empty, .swiper-button-next.swiper-button-next_mySwiper3:empty{\
   display:block;\
 }\
