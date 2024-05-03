@@ -1,61 +1,61 @@
 # swiper-slider-custom-arrows-style
 
 <style><br>
-  .swiper-button-prev.swiper-button-prev_mySwiper3:empty, .swiper-button-next.swiper-button-next_mySwiper3:empty{\
-  display:block;\
-}\
-.swiper-button-prev.swiper-button-prev_mySwiper3, .swiper-button-next.swiper-button-next_mySwiper3 {\
-    width: 50px;\
-    height: 50px;\
-    border-radius: 50%;\
-    background-color: #fff;\
-}\
-\
-\
+  .swiper-button-prev.swiper-button-prev_mySwiper3:empty, .swiper-button-next.swiper-button-next_mySwiper3:empty{<br>
+  display:block;<br>
+}<br>
+.swiper-button-prev.swiper-button-prev_mySwiper3, .swiper-button-next.swiper-button-next_mySwiper3 {<br>
+    width: 50px;<br>
+    height: 50px;<br>
+    border-radius: 50%;<br>
+    background-color: #fff;<br>
+}<br>
+<br>
+<br>
 
 
-.swiper-button-prev.swiper-button-prev_mySwiper3::after,\
-.swiper-button-prev.swiper-button-prev_mySwiper3::before,\
-.swiper-button-next.swiper-button-next_mySwiper3::after,\
-.swiper-button-next.swiper-button-next_mySwiper3::before{\
-  height: 2px;\
-    width: 25px;\
-    background: var(--blue); \
-    position: absolute;\ 
-  content:""; \
-}\
+.swiper-button-prev.swiper-button-prev_mySwiper3::after,<br>
+.swiper-button-prev.swiper-button-prev_mySwiper3::before,<br>
+.swiper-button-next.swiper-button-next_mySwiper3::after,<br>
+.swiper-button-next.swiper-button-next_mySwiper3::before{<br>
+  height: 2px;<br>
+    width: 25px;<br>
+    background: var(--blue); <br>
+    position: absolute;<br>
+  content:""; <br>
+}<br>
  
-.swiper-button-prev.swiper-button-prev_mySwiper3::after,\
-.swiper-button-prev.swiper-button-prev_mySwiper3::before{ \
-    left: 10px;\
+.swiper-button-prev.swiper-button-prev_mySwiper3::after,<br>
+.swiper-button-prev.swiper-button-prev_mySwiper3::before{ <br>
+    left: 10px;<br>
      
-}\
-.swiper-button-next.swiper-button-next_mySwiper3::after,\
-.swiper-button-next.swiper-button-next_mySwiper3::before{ \
-    right: 10px;\
-}\
+}<br>
+.swiper-button-next.swiper-button-next_mySwiper3::after,<br>
+.swiper-button-next.swiper-button-next_mySwiper3::before{ <br>
+    right: 10px;<br>
+}<br>
  
-.swiper-button-prev.swiper-button-prev_mySwiper3::before,\
-.swiper-button-next.swiper-button-next_mySwiper3::before {\
+.swiper-button-prev.swiper-button-prev_mySwiper3::before,<br>
+.swiper-button-next.swiper-button-next_mySwiper3::before {<br>
     
-    transform: rotate(-40deg); \
-}\
+    transform: rotate(-40deg); <br>
+}<br>
 
-.swiper-button-prev.swiper-button-prev_mySwiper3::after,\
-.swiper-button-next.swiper-button-next_mySwiper3::after{\
-  transform: rotate(40deg); \
-}\
+.swiper-button-prev.swiper-button-prev_mySwiper3::after,<br>
+.swiper-button-next.swiper-button-next_mySwiper3::after{<br>
+  transform: rotate(40deg); <br>
+}<br>
 
-\
-.swiper-button-prev.swiper-button-prev_mySwiper3::before,\
-.swiper-button-next.swiper-button-next_mySwiper3::after {  \
-    top: 16px; \
-} \
+<br>
+.swiper-button-prev.swiper-button-prev_mySwiper3::before,<br>
+.swiper-button-next.swiper-button-next_mySwiper3::after {  <br>
+    top: 16px; <br>
+} <br>
 
-.swiper-button-prev.swiper-button-prev_mySwiper3::after,\
-.swiper-button-next.swiper-button-next_mySwiper3::before { \
-    bottom: 17px;\     
-}\
-/***** Slider Custom CSSS ***/\
+.swiper-button-prev.swiper-button-prev_mySwiper3::after,<br>
+.swiper-button-next.swiper-button-next_mySwiper3::before { <br>
+    bottom: 17px;<br>     
+}<br>
+/***** Slider Custom CSSS ***/<br>
 
-</style>\
+</style><br>
