@@ -1,10 +1,12 @@
 # swiper-slider-custom-arrows-style
 
 <style><br>
-  .swiper-button-prev.swiper-button-prev_mySwiper3:empty, .swiper-button-next.swiper-button-next_mySwiper3:empty{<br>
+  .swiper-button-prev.swiper-button-prev_mySwiper3:empty, <br>
+  .swiper-button-next.swiper-button-next_mySwiper3:empty{<br>
   display:block;<br>
 }<br>
-.swiper-button-prev.swiper-button-prev_mySwiper3, .swiper-button-next.swiper-button-next_mySwiper3 {<br>
+.swiper-button-prev.swiper-button-prev_mySwiper3, <br>
+.swiper-button-next.swiper-button-next_mySwiper3 {<br>
     width: 50px;<br>
     height: 50px;<br>
     border-radius: 50%;<br>
